@@ -4,9 +4,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=specowos&layout=compact&theme=dark&hide_border=true&title_color=FEFEFE&icon_color=55D24B&text_color=FEFEFE&bg_color=0,0E1117,0E1117)
 
-## languages
-[![programing langs](https://skillicons.dev/icons?i=lua,html,css)](https://skillicons.dev)
-## discord
-![](https://dcbadge.vercel.app/api/shield/443902982094848011)
-
 ![](https://komarev.com/ghpvc/?username=specowos&color=39D353)
