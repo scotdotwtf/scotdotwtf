@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/specowos/specowos/main/banner-git.png)
+
 # https://scot.wtf
 ### hey so i'm a 13 yr old developer who writes lua scripts, does graphic design, a bit of front-end development, and i also do youtube.
 
