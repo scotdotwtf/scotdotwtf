@@ -6,9 +6,7 @@
 
 ## languages
 [![programing langs](https://skillicons.dev/icons?i=lua,html,css)](https://skillicons.dev)
-## software
-[![software](https://skillicons.dev/icons?i=ps, pr, ae)](https://skillicons.dev)
 ## discord
-![](https://dcbadge.vercel.app/api/shield/443902982094848011?style=flat)
+![](https://dcbadge.vercel.app/api/shield/443902982094848011)
 
 ![](https://komarev.com/ghpvc/?username=specowos&color=39D353)
