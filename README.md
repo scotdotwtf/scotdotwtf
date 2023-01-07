@@ -1,9 +1,5 @@
 # https://scot.wtf
 ### hey so i'm a 13 yr old developer who writes lua scripts, does graphic design, a bit of front-end development, and i also do youtube.
-### my best projects
-- #### rodia
-- #### darkrooms
-- #### catfa
 
 ![](https://komarev.com/ghpvc/?username=specowos&color=39D353)
 
