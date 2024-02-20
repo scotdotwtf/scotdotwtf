@@ -1,7 +1,7 @@
 ![banner](https://raw.githubusercontent.com/scotdotwtf/scotdotwtf/main/banner-git-transparent.png)
 
 # https://scot.wtf
-### hey so i'm a 15 yr old developer who writes lua scripts, does graphic design, a bit of front-end development, and i also do youtube.
+### Hey, I'm a little developer who loves UI, web, and other fun concepts. My portfolio is mainly lua scripts written for the now defunct Synapse X lua engine but I still have some goodies in here. Thanks for checking out my page!
 
 ![](https://komarev.com/ghpvc/?username=scotdotwtf&color=39D353)
 
