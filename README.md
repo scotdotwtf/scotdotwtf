@@ -1,7 +1,7 @@
 ![banner](https://raw.githubusercontent.com/scotdotwtf/scotdotwtf/main/banner-git-transparent.png)
 
 # https://scot.wtf
-### hey so i'm a 14 yr old developer who writes lua scripts, does graphic design, a bit of front-end development, and i also do youtube.
+### hey so i'm a 15 yr old developer who writes lua scripts, does graphic design, a bit of front-end development, and i also do youtube.
 
 ![](https://komarev.com/ghpvc/?username=scotdotwtf&color=39D353)
 
