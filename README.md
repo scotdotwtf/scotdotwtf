@@ -8,4 +8,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scotdotwtf&layout=compact&theme=dark&title_color=FEFEFE&icon_color=55D24B&text_color=FEFEFE&border_color=30363D&bg_color=0D1117)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/scotdotwtf/scotdotwtf/main/Backgrounds/Quasimoto.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; width: 100%; object-fit: contain; background-size: contain; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/scotdotwtf/scotdotwtf/main/Backgrounds/Quasimoto.gif');]{x0000}$}
