@@ -6,3 +6,6 @@
 ![](https://komarev.com/ghpvc/?username=scotdotwtf&color=39D353)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scotdotwtf&layout=compact&theme=dark&title_color=FEFEFE&icon_color=55D24B&text_color=FEFEFE&border_color=30363D&bg_color=0D1117)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/scotdotwtf/scotdotwtf/blob/main/Quasimoto.gif?raw=true');]{x0000}$}
